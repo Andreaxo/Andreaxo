@@ -6,14 +6,14 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 
 
 👩🏼‍💻 Los lenguajes de programación que he visto, y he utilizado son los siguientes:
-+ C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="120" width="100">
-+ PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="80" width="140">
-+ JavaScript (junto con HTML y CSS). <img src="./html css js.png" height="120" width="350">
-+ Python <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="80" width="120">
++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="120" width="100">
++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="80" width="140">
++ <img src="./html css js.png" height="120" width="350">
++ <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="80" width="120">
     
      
 
-<img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="80" width="80"> <h3> Idiomas 🚀 </h3> 
+<h3> Idiomas 🚀 </h3> <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="80" width="80"> 
 
 - Español - Nativo.
 - Inglés - B1.
