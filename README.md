@@ -19,8 +19,9 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 - Inglés - B1.
 - Francés - A1.
 
-  
-<p style="text-align: center;">
+
+
+<p style="text-align: center; display:flex; ">
 <img src="https://marcosgutierrez.mx/wp-content/uploads/2021/11/titulo-contactame-blue.png" height="100" width="220"> 
 </p>
 
