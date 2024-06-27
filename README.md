@@ -11,9 +11,8 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 + JavaScript (junto con HTML y CSS). <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" height="200" width="200">
 + Python <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="300" width="200">
 
-
-###Idiomas 🚀
  <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="100" width="100" >
+### Idiomas 🚀
 
 - Español - Nativo.
 - Inglés - B1.
