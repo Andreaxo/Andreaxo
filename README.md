@@ -19,5 +19,9 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 - Inglés - B1.
 - Francés - A1.
 
+  
+<p style="text-align: center;">
 <img src="https://marcosgutierrez.mx/wp-content/uploads/2021/11/titulo-contactame-blue.png" height="100" width="220"> 
-Mi correo electrónico es: andrea.alzateag@gmail.com.
+</p>
+
+<p style="text-align: center;" >Mi correo electrónico es: andrea.alzateag@gmail.com.</p>
