@@ -13,13 +13,12 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 
 
 ###Idiomas 🚀
- <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="200" width="200" alt="idiomaLogo">
+ <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="100" width="100" >
 
 - Español - Nativo.
 - Inglés - B1.
 - Francés - A1.
 
-<img src="https://marcosgutierrez.mx/wp-content/uploads/2021/11/titulo-contactame-blue.png" height="300" width="300"> 
-
+<img src="https://marcosgutierrez.mx/wp-content/uploads/2021/11/titulo-contactame-blue.png" height="400" width="400"> 
 
 Mi correo electrónico es: andrea.alzateag@gmail.com.
