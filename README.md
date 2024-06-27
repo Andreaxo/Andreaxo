@@ -8,7 +8,7 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 👩🏼‍💻 Los lenguajes de programación que he visto, y he utilizado son los siguientes:
 + <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="120" width="100">
 + <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="80" width="140">
-+ <img src="./html css js.png" height="100" width="240">
++ <img src="./front.png" height="100" width="240">
 + <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="80" width="120">
     
      
