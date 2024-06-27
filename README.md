@@ -26,3 +26,6 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 </p>
 
 <p style="text-align: center;" >Mi correo electrónico es: andrea.alzateag@gmail.com.</p>
+
+
+<h4> Estos fueron algunos datos sobre mí, en mi perfil encontrarás más proyectos a los cuáles me he dedicado.</h4>
