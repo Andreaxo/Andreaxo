@@ -10,7 +10,7 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="80" width="140">
 * <img src="./front.png" height="100" width="240">
 * <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="80" width="120">
-* <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" height="100" width="120">
+* <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" height="160" width="120">
     
      
 
