@@ -13,7 +13,7 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 * <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" height="120" width="120">
     
      
-
+<br> <br>
 <h3> Idiomas 🚀 </h3> <img src="https://cdn-icons-png.flaticon.com/512/3898/3898082.png" height="80" width="80"> 
 
 - Español - Nativo.
