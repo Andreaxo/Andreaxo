@@ -2,7 +2,7 @@
 
 Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasión es la programación desde muy temprana edad.
 
-- 🌱 Actualmente me encuentro estudiando Análisis y Desarrollo de software en el SENA, llevo 3 trimestres dentro de la carrera, lo que ha hecho que aprenda un montón.
+- 🌱 Actualmente me encuentro estudiando Análisis y Desarrollo de software en el SENA, llevo 5 trimestres dentro de la carrera, lo que ha hecho que aprenda un montón, he trabajado mayormente en proyectos de React junto con NodeJS pero me adapto a cualquier lenguaje de programación.
 
 
 👩🏼‍💻 Los lenguajes de programación que he visto, y he utilizado son los siguientes:
@@ -10,6 +10,7 @@ Mi nombre es María Andrea Alzate Guevara, tengo 18 años actualmente, y mi pasi
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="80" width="140">
 * <img src="./front.png" height="100" width="240">
 * <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" height="80" width="120">
+* <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" height="80" width="120">
     
      
 
